@@ -19,23 +19,45 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is KING UDULA🔥
+My Creator is Udula Bro😎` //Costomize Alive Message (*🍁̶͟͞  බොට් සක්‍රීය දැයි බැලිමට* ```.alive``` *ලෙස ටයිප් කරන්න.🍃⃝⃗🕵️‍♀️*
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+*🍁̶͟͞  බොට්ගේ විධාන ලැයිස්තුව ලබා ගැනිමට* ```.menu``` *ලෙස ටයිප් කරන්න.🍃⃝⃗🕵️‍♀️*
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+ . ___________________
+▕╮╭┻┻╮╭┻┻╮╭▕╮╲
+▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏
+▕╭┻┻┻┛┗┻┻┛   ▕  ╰▏
+▕╰━━━┓┈┈┈╭╮▕╭╮▏
+▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏
+▕╰╯┈┗┛┗┛┈╭╮▕╮┈▏
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+
+*⚖️⃢⛓️හ̶⃯⃗යි̶⃗͢ජැ̶⃯⃗ක ⃯⃖ලො̶⃗͢වේ⃞̶⃯⃕ ක̶⃯⃖පි̶⃖͢තා̶⃯⃖න̶්⃯⃖⛓️⃢⚖️*
+මෙන්න අපේ OFFICIAL GROUP LINK එක.🎃
+https://chat.whatsapp.com/E1AJ7K11M3v0XcxgvFgSRS
+*JOIN NOW*
+
+```🧜‍♀️සුබ දවසක් වේවා !!🧜‍♀️```
+
+```Udula Bot භාවිත කළ ඔබට ස්තූතියි.```
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ `` )
+
+global.owner = ['+94705031527'] //Owner number in aive msg
+global.premium = ['+94705031527'] //Owner Number info
+global.ownernomer = '+94705031527' //Owner Number <<<
+
+global.ownername = '😎UDULA BRO' //Owner Name
+global.botname = ' ☬𝙺𝙸𝙽𝙶༒𝚄𝙳𝚄𝙻𝙰࿐' //Bot Name
+
+global.button = '🤭Whatsapp📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/+94705031527' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬𝙺𝙸𝙽𝙶༒𝚄𝙳𝚄𝙻𝙰࿐' //Bot Pacage Name
+global.author = '😎𝚄𝙳𝚄𝙻𝙰 𝙱𝚁𝙾❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -43,20 +65,20 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/udulabro' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'මේ ටික ඇඩ්මින්ලට විතරයි හොදේ!😉',
+    botAdmin: 'බොට්ට ඇඩ්මින් වෙන්න ඕනා😥',
+    owner: 'මේක මාව හදපු කෙනාට විතරයි..!😉',
+    group: 'මේවා Groups වලදී විතරයි පාවිච්චි කරන්නේ!',
+    private: 'මේක රහසිගත Chat වලට විතරයි!',
+    bot: 'මේක බොට්ට විතරයි😝',
+    wait: '👉👈ඉදපන් චුට්ටක්,උබට හදිස්සි නෑනේ...',
+    error: 'එරර් එකක්🤔!',
+    endLimit: 'ඩේලි ලිමිට් එක expire වෙලා, ලිමිට් එක පැය 12කට පස්සේ auto reset වෙනවා',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
